@@ -1,0 +1,71 @@
+<resources>
+    <string name="app_name">Popular Movies</string>
+    <string name="movie_details">Movie Details</string>
+
+    <string name="title_movies">Popular Movies</string>
+
+    <string name="user_rating_movie">Rating: %1$s/10</string>
+
+    <string name="title_most_popular">Most Popular</string>
+    <string name="title_top_rated">Top Rated</string>
+    <string name="title_favourite">Favourite</string>
+    <string name="parcel_movie">Parcel Movie</string>
+    <string name="parcel_review">Parcel Review</string>
+    <string name="parcel_trailer">Parcel Trailer</string>
+
+    <string name="title_icon_favo">Add favourite</string>
+    <string name="title_icon_unfavo">Remove Favourite</string>
+
+    <string name="share_menu">Share</string>
+
+    <string name="movie_api_popular">popular</string>
+    <string name="movie_api_top_rated">top_rated</string>
+    <string name="movie_api_favourite">favourite</string>
+    <string name="movie_sort_pop_desc">popularity.desc</string>
+    <string name="movie_sort_vote_avg_desc">vote_average.desc</string>
+
+    <string name="pref_sort_method">SORT_METHOD</string>
+    <string name="pref_sort_vote_avg_desc">SORT_VOTE_AVERAGE_DESC</string>
+    <string name="pref_sort_pop_desc">SORT_POPULARITY_DESC</string>
+
+    <string name="sort_list_by">Sort By</string>
+
+    <string name="example_title_movies">Example title movies</string>
+    <string name="example_voteavg_movies">Example vote average movies</string>
+    <string name="example_popular_movies">Example popular movies</string>
+    <string name="example_releasedate_movies">Example release date movies</string>
+    <string name="example_overview_movies">Example overview movies</string>
+    <string name="example_heading_voteavg">Vote Average: </string>
+    <string name="example_heading_popular">Popularity: </string>
+    <string name="example_heading_releasedate">Release Date: </string>
+
+    <string name="example_author_movies">Example author movies</string>
+    <string name="example_review_movies">Example review movies</string>
+
+    <string name="description_poster_movie">Description poster of movie</string>
+    <string name="no_internet_connection">This application needs Internet connection to function.</string>
+    <string name="overview_not_found">Overview not found</string>
+    <string name="vote_average_not_found">Vote average not found</string>
+    <string name="release_date_not_found">Release date not found</string>
+    <string name="popular_not_found">Popular not found</string>
+
+    <string name="title_empty_view">No movies</string>
+    <string name="text_empty_view">Possible internet connection is missing</string>
+    <string name="release_date_missing">Release date is unknown</string>
+    <string name="add_favorites">Add as favorite</string>
+    <string name="watch_trailer">Watch trailer</string>
+    <string name="favorites">Favorites</string>
+    <string name="remove_favorites">Remove from favorites</string>
+    <string name="title_empty_view_favorites">No movies</string>
+    <string name="text_empty_view_favorites">You can add here your favorite movies</string>
+    <string name="sort_by">Sort by</string>
+    <string name="share_trailer">Share trailer</string>
+
+    <string name="url_for_downloading_poster">http://image.tmdb.org/t/p/w342</string>
+    <string name="url_for_downloading_backdrop">http://image.tmdb.org/t/p/original</string>
+
+    <string name="tv_overview">Overview</string>
+
+    <string name="tv_reviews">Review</string>
+    <string name="tv_trailers">Trailer</string>
+</resources>
